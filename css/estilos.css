@@ -1,5 +1,7 @@
 @charset "utf-8";
 /*css document */
 body{
-    background-color: cornflowerblue;
+    background-color: cadetblue;
+    font-weight: bolder;
+    color: red;
 }
